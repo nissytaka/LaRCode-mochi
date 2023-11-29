@@ -14,3 +14,4 @@ else :
     ans[0] = (1/((B/A)**2+1))**0.5
     ans[1] = (B/A)*ans[0]
 print(*ans)
+#complete
